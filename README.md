@@ -13,6 +13,7 @@ Shapes Included:
 - Rhombus
 - Trapezoid
 - Polygon(regular)
+- Kite
 
 Install command:
 ----------------
@@ -30,7 +31,6 @@ mysquarearea = Square(10)
 print(mysquarearea):
 ```
 Gives the output:
------------------
 ```
 100
 ```
