@@ -1,5 +1,5 @@
 ##Areas of basic 2d shapes
-##Thomas B
+##TomTheCodingGuy
 import math
 
 def Square(side):
