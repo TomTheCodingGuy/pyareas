@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyareas"
-version = "0.0.5"
+version = "0.0.6"
 authors = [
   { name="TomTheCodingGuy", email="tomb80940@gmail.com" },
 ]
