@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: pyareas
+Version: 0.0.5
+Summary: Python package for areas
+Author-email: TomTheCodingGuy <tomb80940@gmail.com>
+Project-URL: Homepage, https://github.com/TomTheCodingGuy/pyareas
+Project-URL: Bug Tracker, https://github.com/TomTheCodingGuy/pyareas/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+#pyareas
+##A simple Python library for finding the areas of 2D shapes
+
+##Shapes Included:
+
+Square,
+Triangle,
+Rectangle,
+Circle,
+Parellelogram,
+Ellipse,
+Rhombus,
+Trapezoid,
+Polygon(regular)
+
+##Install command:
+```
+pip install pyareas
+```
+
+##Example:
+```
+from pyareas import *
+
+mysquarearea = Square(10)
+
+print(mysquarearea):
+```
+Gives the output:
+```
+100
+```
