@@ -40,3 +40,7 @@ def Polygon(sides,sidelength,apothem):
     perimeter=sidelength*sides
     area=(perimeter*apothem)/2
     return areas
+
+def Kite(height,width):
+    area=(height*width)/2
+    return area
