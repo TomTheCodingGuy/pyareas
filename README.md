@@ -26,11 +26,14 @@ Example:
 ```
 from pyareas import *
 
-mysquarearea = Square(10)
-
-print(mysquarearea):
+print(Square(10))
 ```
 Gives the output:
 ```
 100
 ```
+
+To do:
+------
+- Add more shapes
+- Create a new library for volume of 3D shapes
