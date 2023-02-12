@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/pyareas.py
+src/pyareas.egg-info/PKG-INFO
+src/pyareas.egg-info/SOURCES.txt
+src/pyareas.egg-info/dependency_links.txt
+src/pyareas.egg-info/top_level.txt
